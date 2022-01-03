@@ -1,2 +1,2 @@
 # dependabot-test
-Test skanning requirements.txt in subdirectories
+Test scanning requirements.txt in subdirectories
